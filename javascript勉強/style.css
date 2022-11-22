@@ -1,0 +1,18 @@
+
+h2{
+  margin-left: : 30pt;
+  
+}
+body{
+  background-color: antiquewhite;
+}
+
+#gacha-display{
+  margin-top: 1rem;
+  min-height: 3rem;
+  margin-left: auto;
+}
+
+#gacha-button{
+  margin-bottom: 3rem;
+}
